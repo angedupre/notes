@@ -1,0 +1,93 @@
+# OSS Maintainer/Contributor/User Interview with Tyler
+
+- 3 biggest problem with open source
+  - things people rely on that are not actually maintained properly
+  - most open source gets create as a hobby or through curiosity
+    - lots of random stuff that's interesting but hasn't been built for the maturity of systems of scale
+    - lot of OSS from corporate is better
+  - not just time, but the fact that they get paid might make them take it more serious
+  - ways of making money in OSS:
+    - product as a company
+    - provide service (consulting gigs)
+    - grants
+    - get investor to fund a company you start around
+  - \*you have to do work to give your OSS away, by having a link to a place where people can contribute, you run the risk of actually having to maintain
+-
+-
+- 3 biggest opportunities
+  - provide more flexible funding options
+    - platforms for selling licenses
+    - platforms for directly investing in a project
+    - backing it in a more flexible way > grants on a much smaller scale
+  - allowing people to contribute in an easier way (contribute with money)
+  - 45% of people on GitHub describe themselves as students, 28% as mediocre, 10% as actually experienced > this imbalance is an opportunity for those that are building OS communities
+    - => aligning usage with contributions
+  - free to try, pay for using it in commercial space
+  - see a future where people are divided and exploded and they all work together collaboratives there will be giant companies and tiny ones, no middle ground
+    - small company where people are curious
+    - big company where people are comfortable
+-
+- what are the primitives
+  - curiosity
+  - allows experimentation
+  - sharing of hobby project
+  - job security / opportunity
+  - self promotion
+  - build with durability that is not connected to a company
+  - flexibility
+  - company perspective
+    - recruiting
+    - cost lower for bringing people in
+    - cause you don't have to train the people in your ecosystem
+    - shared body of knowledge people can rely on
+    - trying to hire contributors of OSS
+-
+-
+- Roles
+  - owner/starter -> maintainer
+  - contributors:
+    - people at companies submitting pull requests (out of their needs) -> there's a operational costs connected to that
+    - students that want to get into it (even higher costs might just teach them and never help again)
+    - "weekend devs" limited amount of time might fix some bugs
+    - students and weekend dev might actually become community members
+  - users just use but never cost you anything
+  - abuser ask you to add something so they would use your project
+-
+-
+- list Tasks to do as maintainer
+  - answer questions
+  - feature requests
+  - bug reports
+  - reviewing PR most intensive part of it (reading other peoples code)
+  - set ground rules ( contributions )
+  - make my own patches and PR's (keep activities alive)
+-
+-
+- lifecycle of project of Tyler
+  - wanted to learn new programming language, wanted to have databases, wrote a library that let people use a database
+  - saw there were some similar things, not very active, saw that I could do it better
+  - opened a new repo from the start (empty repo)
+  - working on it
+  - functional project pretty quickly
+  - asked some questions on IRC
+  - got advice when was stuck
+  - it would allow you to access a database, so people would look for the language and the database (eg python S3) and find the project
+  - people have come in and became more active
+  - I am the only one maintaining it and only one that has commit rights (would only do it if I trust the person) nobody has asked
+  - lots contributions questions stars ...
+  - starting to stop spending time on it, project works well for me, other peoples' PR's aren't necessary in line with me
+  - once every 3 months, I'll check the PR's and merge the ones that can be merged immediately (always look at every line)
+-
+- tools at your disposal
+  - github
+    - PR
+    - issues
+    -
+  - git
+  - email
+  -
+-
+
+1.  go through questions & add answers to document
+1.  Collect feedback on doc
+1.  Show architecture visualization & add to it
