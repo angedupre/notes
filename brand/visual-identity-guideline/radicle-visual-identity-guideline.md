@@ -8,8 +8,8 @@ Radicle is a language, a peer-to-peer stack, and a collaboration tool. Reflectin
 
 The logotype is constructed with a custom drawing of letters largely based on the typeface that is currently under development, [The Future Mono](https://www.futurefonts.xyz/klim/the-future-mono), designed by [Klim Type Foundry](https://klim.co.nz/), drawing inspirations from Paul Renner’s [early sketches for Futura](https://books.google.com/books?id=zfT0Iam0q7AC&lpg=PA90&ots=RsiZZzSmmn&dq=Paul%20Renner%E2%80%99s%20early%20sketch%20futura&pg=PA87#v=onepage&q&f=false). Even though the letterforms exhibit qualities of a mono-spaced font, please note the Radicle Logotype is proportionally spaced by default.
 
+[**Download radicle-logotype.svg to use internally & externally**](assets/radicle-logotype.svg)  
 [**Download radicle-logotype.ai for the raw file**](assets/radicle-logotype.ai)
-[**Download radicle-logotype.svg to use internally & externally**](assets/radicle-logotype.svg)
 
 ![Radical logotype is proportionally spaced](images/guideline-0101-03.svg)
 ![Radical logotype](images/guideline-0101-02.svg)
